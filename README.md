@@ -11,4 +11,3 @@ A background application in Python for automated file backup and synchronization
 1. Install dependencies: `pip install -r requirements.txt`
 2. Update `config/settings.yaml` with your preferred directories and AWS Bucket name.
 3. Run the application: `python src/main.py`
-# Smart-Automated-Backup-and-Sync
