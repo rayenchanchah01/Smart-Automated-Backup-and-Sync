@@ -1,0 +1,9 @@
+project_name: smart_backup_sync
+version: 0.1.0
+
+backup:
+  source_dir: "./data/source"
+  dest_dir: "./data/backup"
+  s3_bucket: "my-smart-backup-bucket"
+  run_interval_seconds: 60
+  real_time: true
